@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Example Game 1",
+    "thumbnail": "https://via.placeholder.com",
+    "url": "https://example.com/game1-embed"
+  },
+  {
+    "title": "Example Game 2",
+    "thumbnail": "https://via.placeholder.com",
+    "url": "https://example.com/game2-embed"
+  }
+]
